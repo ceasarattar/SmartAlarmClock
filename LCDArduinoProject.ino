@@ -1,10 +1,5 @@
-// Group 63 - Smart Alarm Clock
 
-// Enkh-Amgalan Altanshagai - ealtan3@uic.edu
-// Ceasar Attar - catta2@uic.edu
-// Isabella Linarez - ilina2@uic.edu
-
-// Our project develops a smart alarm clock using multiple Arduinos to enhance the traditional wake-up experience. 
+// This project develops a smart alarm clock using multiple Arduinos to enhance the traditional wake-up experience. 
 // It features real-time indoor temperature display, humidity reading, and a light sensor to mimic natural sunrise, 
 // all aimed at improving user convenience. The Arduinos will communicate via serial connection for synchronized functionality,
 // while using buttons to set the time and alarm. It will also make use of a buzzer to wake the user up to 2 LCD 
