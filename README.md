@@ -33,10 +33,6 @@ The **Smart Alarm Clock** is an innovative project that combines real-time envir
 - Wireless communication modules (e.g., RF modules)
 - Connecting wires and breadboards
 
-### Software Requirements
-- Arduino IDE
-- Necessary libraries for LCD and sensor modules
-
 ### Setup Instructions
 1. Connect the hardware components as per the circuit diagram provided in the repository.
 2. Upload the respective `.ino` files to each Arduino.
